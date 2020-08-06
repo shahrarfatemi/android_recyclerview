@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+
+    <string-array name="names">
+        <item>Shahrar</item>
+        <item>Madeha</item>
+        <item>Monmoy</item>
+        <item>Eliza</item>
+        <item>Adiba</item>
+        <item>Tasnim</item>
+        <item>Munna</item>
+        <item>Sunan</item>
+    </string-array>
+
+
+    <string-array name="description">
+        <item>Gadha</item>
+        <item>Gadhi</item>
+        <item>Behaya</item>
+        <item>Stupid</item>
+        <item>Sharthopor</item>
+        <item>Senti</item>
+        <item>Dhappabaj</item>
+        <item>Ailsha</item>
+    </string-array>
+
+
+</resources>
